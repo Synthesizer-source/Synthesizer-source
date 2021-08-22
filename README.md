@@ -34,7 +34,7 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 <br></br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Synthesizer-source&show_icons=true&title_color=e63946&icon_color=e76f51&text_color=9f9f9f&bg_color=151515)
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Synthesizer-source&show_icons=true&title_color=e63946&count_private=true&icon_color=e76f51&text_color=9f9f9f&bg_color=151515)
 <br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synthesizer-source&bg_color=151515&title_color=e63946&text_color=9f9f9f)
